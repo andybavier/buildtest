@@ -1,0 +1,3 @@
+FROM andybavier/hello-world
+
+COPY child-msg /
